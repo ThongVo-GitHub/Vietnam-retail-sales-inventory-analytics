@@ -1,0 +1,6 @@
+Metric,Python,Power BI Expected,Difference,Status
+Latest Inventory Date,2022-12-31,2022-12-31,0 days,PASS
+Current Inventory Quantity,93317,93317,0,PASS
+Products in Latest Snapshot,12975,12975,0,PASS
+Products in Stock,12975,12975,0,PASS
+Out of Stock Products,0,0,0,PASS

@@ -1,0 +1,6 @@
+Metric,Python,Power BI Expected,Difference,Status
+Total Net Sales,332230025498.0,332230025498.0,0,PASS
+Total Cost,254170428358.0,254170428358.0,0,PASS
+Total Profit,78059597140.0,78059597140.0,0,PASS
+Profit Margin,0.235,0.235,0,PASS
+Total Quantity Sold,1174515.0,1174515.0,0,PASS

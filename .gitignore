@@ -1,0 +1,16 @@
+# Raw/processed datasets
+data/raw/
+data/processed/powerbi_data/
+*.pkl
+*.parquet
+
+# Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Power BI local files (if added later)
+*.pbix~
+
+archive.zip
+*.xlsx
