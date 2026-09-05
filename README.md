@@ -257,8 +257,6 @@ vietnam-retail-sales-inventory-analytics/
 │   └── 06_dashboard_validation.ipynb
 ├── screenshots/
 │   └── dashboard.png
-├── sql/
-│   └── README.md
 ├── powerbi/
 │   ├── Vietnam_Retail_Sales_Inventory_Analytics.pbix
 │   └── README.md
